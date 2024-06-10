@@ -261,7 +261,7 @@ html {
 }
 
 .section-shadow-menu {
-  background-image: url(/sites/all/themes/aesbs337/images/graphics/section-shadow.png);
+  background-image: url(images/section-shadow.png);
   height: 1em;
   list-style-type: none;
   background-repeat: no-repeat;
